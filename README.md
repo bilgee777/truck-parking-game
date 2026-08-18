@@ -4,6 +4,16 @@ A 3D truck driving and parking simulation developed with **Unity and C#** as my 
 
 The project focuses on vehicle physics, parking mechanics, player controls, camera systems, UI flows, and gameplay interaction.
 
+
+## 🎮 Gameplay Preview
+
+<img width="1655" height="1058" alt="tır oyun alanı" src="https://github.com/user-attachments/assets/6892f7ca-7b9c-4038-8800-35e381765b87" />
+## Parking Environment
+<img width="1657" height="914" alt="park etme alanı" src="https://github.com/user-attachments/assets/88a7d408-53b7-42ac-a7d7-d6eca1a7634d" />
+## Garage & Vehicle Selection
+<img width="1645" height="892" alt="garaj sahnesi" src="https://github.com/user-attachments/assets/9a48a4a5-da28-4d74-a910-add6f26ffce2" />
+
+
 ## 🎮 Features
 
 * Physics-based truck driving system
@@ -96,17 +106,3 @@ The main goal of this project was to gain practical experience in:
 Computer Engineer | Unity & C# Developer
 
 GitHub: @bilgee777
-# 🚛 Truck Parking Game
-
-A 3D truck driving and parking simulation developed with Unity and C# as my Computer Engineering graduation project.
-
-The project focuses on vehicle physics, parking mechanics, player controls, camera systems, UI flows, and gameplay interaction.
-
-
-## 🎮 Gameplay Preview
-
-<img width="1655" height="1058" alt="tır oyun alanı" src="https://github.com/user-attachments/assets/6892f7ca-7b9c-4038-8800-35e381765b87" />
-## Parking Environment
-<img width="1657" height="914" alt="park etme alanı" src="https://github.com/user-attachments/assets/88a7d408-53b7-42ac-a7d7-d6eca1a7634d" />
-## Garage & Vehicle Selection
-<img width="1645" height="892" alt="garaj sahnesi" src="https://github.com/user-attachments/assets/9a48a4a5-da28-4d74-a910-add6f26ffce2" />
