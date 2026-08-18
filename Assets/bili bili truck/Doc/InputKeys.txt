@@ -1,0 +1,17 @@
+Keyboard keys:
+
+C = Change camera
+Space = Hand brake
+H = Horn
+W = Throttle
+S   Hand brake
+A - D = Move left and right
+Escape = Pause
+R = Toggle reversing
+
+How to change control type (keyboard or mobile touch):
+1. Open Day_Truck scene
+2. Find and select Canvas gameobject
+3. From inspector section, find the InputSystem component
+4. InputSystem component you can choose control type...
+also you can use "Auto Switch Controls" option to automatically switch controls based on the running platform

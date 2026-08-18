@@ -1,0 +1,26 @@
+﻿
+using UnityEngine;
+using System.Collections;
+namespace BilgeKorkmaz
+{
+
+	public class Rotator : MonoBehaviour
+	{
+
+
+		Transform target;
+		public Vector3 dir;
+		public float speed = 100f;
+
+		void Start()
+		{
+			target = GetComponent<Transform>();
+		}
+
+
+		void Update()
+		{
+			target.Rotate(dir * speed * Time.deltaTime);
+		}
+	}
+}
